@@ -1,8 +1,28 @@
-<h1 align="left">Hi 👋, I'm Harshal S</h1>
-<h3 align="left">A passionate FullStack MERN developer</h3>
+# About Me
 
-<p align="center">
-</p>
+Hi there! 👋 I’m **Harshal**, an IT student passionate about **technology, design, and problem-solving**. I love bringing ideas to life through **code and creativity**, blending technical expertise with a strong sense of design.
+
+## I specialize in:
+
+- **Full Stack Development (MERN)** – Building responsive, high-performing web applications from scratch.
+- **UI/UX Design** – Crafting intuitive and visually appealing interfaces that enhance user experience.
+- **DSA in C++** – Strengthening logic and problem-solving skills for better coding efficiency.
+
+## 💡 My journey so far:
+
+- Completed courses in **MERN Stack Development**, **UI/UX Design**.
+- Currently honing skills in **Data Structures & Algorithms** and **Core CS fundamentals**.
+- Experienced in building **landing pages, portfolios, and small-scale applications**.
+
+## 🌍 Career Goals:
+- Open for **internships**  
+- Open for **entry-level jobs**  
+- Seeking **remote opportunities** in **frontend, backend, full-stack development, or SDE roles**.
+
+## 📌 Fun fact:
+
+I’m always experimenting with **new tech stacks and creative ideas**, and I believe the best solutions happen where **design meets technology**.
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithharshal&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dracula&hide_border=false&card_width=420"  alt="codewithharshal" /></p>
 
