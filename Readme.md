@@ -8,9 +8,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithharshal&show_icons=true&locale=en&theme=dracula" height="139" alt="codewithharshal" /></p>
 
-<p align="left">Tech Stack I Used</p>
-
 ###
+
+<p align="left">Tech Stack I Used</p>
 
 <div align="left">
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
