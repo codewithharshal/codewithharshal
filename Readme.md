@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Harshal</h1>
-<h3 align="center">A passionate FullStack MERN developer</h3>
+<h1 align="left">Hi 👋, I'm Harshal S</h1>
+<h3 align="left">A passionate FullStack MERN developer</h3>
 
 <p align="center">
 </p>
