@@ -1,6 +1,6 @@
 # About Me
 
-Hi there! 👋 I’m **Harshal**, an IT student passionate about **technology, design, and problem-solving**. I love bringing ideas to life through **code and creativity**, blending technical expertise with a strong sense of design.
+Aspiring Programmer | B.Tech in Information Technology | MERN Stack Web Developer | Proficient in DSA (C++) | Building Skills for Future 🚀
 
 ## I specialize in:
 
