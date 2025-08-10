@@ -24,7 +24,7 @@ Hi there! 👋 I’m **Harshal**, an IT student passionate about **technology, d
 I’m always experimenting with **new tech stacks and creative ideas**, and I believe the best solutions happen where **design meets technology**.
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithharshal&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dracula&hide_border=false&card_width=420"  alt="codewithharshal" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithharshal&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dracula&hide_border=false&card_width=300"  alt="codewithharshal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codewithharshal&show_icons=true&locale=en&theme=dracula" height="139" alt="codewithharshal" /></p>
 
