@@ -14,7 +14,7 @@ Aspiring Programmer | B.Tech in Information Technology | MERN Stack Web Develope
 - Currently honing skills in **Data Structures & Algorithms** and **Core CS fundamentals**.
 - Experienced in building **landing pages, portfolios, and small-scale applications**.
 
-## 🌍 Career Goals:
+## 🌍 Open to:
 - Open for **internships**  
 - Open for **entry-level jobs**  
 - Seeking **remote opportunities** in **frontend, backend, full-stack development, or SDE roles**.
