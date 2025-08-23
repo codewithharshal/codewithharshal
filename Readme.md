@@ -4,7 +4,7 @@ Aspiring Programmer | B.Tech in Information Technology | Full Stack Web Develope
 
 ## I specialize in:
 
-- **Full Stack Development (MERN)** – Building responsive, high-performing web applications from scratch.
+- **Full Stack Development** – Building responsive, high-performing web applications from scratch.
 - **UI/UX Design** – Crafting intuitive and visually appealing interfaces that enhance user experience.
 - **DSA in C++** – Strengthening logic and problem-solving skills for better coding efficiency.
 
