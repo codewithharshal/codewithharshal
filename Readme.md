@@ -1,6 +1,6 @@
 # About Me
 
-Aspiring Programmer | B.Tech in Information Technology | MERN Stack Web Developer | Proficient in DSA (C++) | Building Skills for Future 🚀
+Aspiring Programmer | B.Tech in Information Technology | Full Stack Web Developer | Proficient in DSA (C++) | Building Skills for Future 🚀
 
 ## I specialize in:
 
