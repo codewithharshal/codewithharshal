@@ -1,10 +1,10 @@
 # About Me
 
-Aspiring Programmer | B.Tech in Information Technology | Full Stack Web Developer | Proficient in DSA (C++) | Building Skills for Future 🚀
+B.Tech in Information Technology | Nodejs Backend Developer | MERN Stack Web Developer | Proficient in DSA (C++) | Building Skills for Future 🚀
 
 ## I specialize in:
 
-- **Full Stack Development** – Building responsive, high-performing web applications from scratch.
+- **MERN Stack Development** – Building responsive, high-performing web applications from scratch.
 - **UI/UX Design** – Crafting intuitive and visually appealing interfaces that enhance user experience.
 - **DSA in C++** – Strengthening logic and problem-solving skills for better coding efficiency.
 
@@ -18,10 +18,6 @@ Aspiring Programmer | B.Tech in Information Technology | Full Stack Web Develope
 - Open for **internships**  
 - Open for **entry-level jobs**  
 - Seeking **remote opportunities** in **frontend, backend, full-stack development, or SDE roles**.
-
-## 📌 Fun fact:
-
-I’m always experimenting with **new tech stacks and creative ideas**, and I believe the best solutions happen where **design meets technology**.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithharshal&show_icons=true&locale=en&layout=compact&langs_count=10&theme=dracula&hide_border=false&card_width=300"  alt="codewithharshal" /></p>
