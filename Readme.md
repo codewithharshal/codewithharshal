@@ -1,18 +1,28 @@
 # About Me
 
-B.Tech in Information Technology | Nodejs Backend Developer | MERN Stack Web Developer | Proficient in DSA (C++) | Building Skills for Future 🚀
+*B.Tech in Information Technology | Node.js Backend Developer | API & Database Enthusiast | Building Scalable Systems ⚙️*
 
-## I specialize in:
 
-- **MERN Stack Development** – Building responsive, high-performing web applications from scratch.
-- **UI/UX Design** – Crafting intuitive and visually appealing interfaces that enhance user experience.
-- **DSA in C++** – Strengthening logic and problem-solving skills for better coding efficiency.
+## 🧠 I specialize in:
 
-## 💡 My journey so far:
+- **Node.js & Express.js** – Developing robust and efficient backend architectures for web applications.  
+- **RESTful APIs & Authentication** – Building secure and high-performing APIs with JWT, bcrypt, and middleware logic.  
+- **Databases (MongoDB, MySQL)** – Designing and managing databases for scalability and performance.  
+- **Error Handling & Optimization** – Writing clean, maintainable, and well-documented code with focus on reliability.  
 
-- Completed courses in **MERN Stack Development**, **UI/UX Design**.
-- Currently honing skills in **Data Structures & Algorithms** and **Core CS fundamentals**.
-- Experienced in building **landing pages, portfolios, and small-scale applications**.
+
+## 💡 My Journey So Far:
+
+- Completed hands-on projects in **Node.js, Express, and MongoDB** (CRUD apps, authentication systems, REST APIs).  
+- Continuously improving knowledge in **Data Structures, Algorithms**, and **System Design** to strengthen backend logic.  
+- Passionate about **building scalable, production-ready systems** and exploring **cloud deployment** (AWS, Render, Vercel).  
+
+
+## 🚀 Current Focus:
+
+- Enhancing backend performance using **asynchronous programming and microservices architecture**.  
+- Collaborating on real-world projects to deliver **clean, secure, and optimized backend solutions**.  
+
 
 ## 🌍 Open to:
 - Open for **internships**  
