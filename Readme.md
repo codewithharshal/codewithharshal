@@ -20,7 +20,7 @@
 
 ## 🚀 Current Focus:
 
-- Enhancing backend performance using **asynchronous programming and microservices architecture**.  
+- Enhancing backend performance using **Nodejs** and **microservices architecture**.  
 - Collaborating on real-world projects to deliver **clean, secure, and optimized backend solutions**.  
 
 
