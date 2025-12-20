@@ -23,6 +23,9 @@
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
 ![RESTful Architecture](https://img.shields.io/badge/RESTful%20Architecture-02569B?logo=api&logoColor=white)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?logo=styled-components&logoColor=white)
+
 
 </div>
 
